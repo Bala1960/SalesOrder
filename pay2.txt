@@ -1,0 +1,1 @@
+Payment is done according to the curreny based on the country
